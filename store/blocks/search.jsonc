@@ -20,7 +20,12 @@
       "search-fetch-previous",
       "search-content",
       "filter-navigator.v3",
-      "search-fetch-more"
+      "search-fetch-more",
+      "search-products-count-per-page"
     ]
+ },
+
+ "store.not-found#search": {
+   "blocks": []
  }
 }
